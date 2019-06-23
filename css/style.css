@@ -85,4 +85,5 @@ a:active{
 .categories li{
 	padding-bottom: 6px;
 	border-bottom:dotted 1px #333;
+	list-style-image: ('check.png');
 }
